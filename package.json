@@ -1,0 +1,28 @@
+{
+  "name": "request-scaled",
+  "version": "1.0.0",
+  "description": "Request wrapper with scaling capabilities (dns lookup, ip address selection)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:1602/request-scaled.git"
+  },
+  "keywords": [
+    "request",
+    "dns",
+    "round-robin",
+    "scaling",
+    "load",
+    "balancer",
+    "docker"
+  ],
+  "author": "Anatoliy Chakkaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1602/request-scaled/issues"
+  },
+  "homepage": "https://github.com/1602/request-scaled"
+}
