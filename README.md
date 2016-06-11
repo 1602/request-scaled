@@ -37,4 +37,4 @@ no control yet, maybe coming soon
 
 ## LICENSE
 
-MIT
+[MIT](./LICENSE)
