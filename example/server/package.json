@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Example HTTP server",
+  "main": "index.js",
+  "author": "Anatoliy Chakkaev",
+  "license": "ISC"
+}
