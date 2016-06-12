@@ -28,9 +28,6 @@ requestScaled.get('http://api:3000/perform/heavy/query')
     });
 ```
 
-For those who still use callbacks: sorry, you have to fork, implement callback hell
-yourself, I'm not doing this for you.
-
 ## Control over DNS lookup
 
 no control yet, maybe coming soon
