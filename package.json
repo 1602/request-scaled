@@ -1,6 +1,6 @@
 {
   "name": "request-scaled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request wrapper with scaling capabilities (dns lookup, ip address selection)",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/1602/request-scaled/issues"
   },
-  "homepage": "https://github.com/1602/request-scaled"
+  "homepage": "https://github.com/1602/request-scaled",
+  "devDependencies": {
+    "eslint": "^2.12.0",
+    "expect": "^1.20.1",
+    "mocha": "^2.5.3",
+    "request": "^2.72.0"
+  }
 }
