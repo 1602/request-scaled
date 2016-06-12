@@ -1,6 +1,7 @@
 'use strict';
 
-const requestWrapper = require('./domains/request-wrapper');
+const requestWrapperFactory = require('./domains/request-wrapper-factory');
 const dnsLookup = require('./domains/dns-lookup');
 
-module.exports = requestWrapper(dnsLookup);
+module.exports = requestWrapperFactory(dnsLookup);
+
